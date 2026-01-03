@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I am Shubham 👋
 
--> PhD Researcher (Biological Engineering)<br>
--> University of Idaho<br>
--> Machine Learning • Molecular Modeling •  Molecular Dynamics • QM/MM<br>
+**Shubham Pandey**
+PhD Researcher (Biological Engineering)<br>
+University of Idaho<br>
+Machine Learning • Molecular Modeling •  Molecular Dynamics • QM/MM<br>
